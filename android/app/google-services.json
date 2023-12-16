@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731437554797",
+    "project_id": "connect2care-de53f",
+    "storage_bucket": "connect2care-de53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731437554797:android:9a058845fe436d09253364",
+        "android_client_info": {
+          "package_name": "com.connect2care.jarvisai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTLqvfZ2OZBvtKHq_024ghvtj-5I5_a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
